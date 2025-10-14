@@ -1,11 +1,7 @@
-<p align="center">
-  <a href="https://ant.design">
-    <img width="100" src="https://avatars.githubusercontent.com/u/225202273?s=200&v=4">
-  </a>
-</p>
 
 <h3 align="center">峻宇茶画苑</h3>
-<p align="center"><a href="https://www.junyu.lol/" target="_blank" align="center">junyu.lol</a></p>
+
+### <p align="center"><a href="https://www.junyu.lol/" target="_blank" align="center">junyu.lol</a></p>
  
 
 <p /><br />
