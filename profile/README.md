@@ -3,9 +3,6 @@
 
 ### <p align="center"><a href="https://www.junyu.lol/" target="_blank" align="center">junyu.lol</a></p>
  
-
-<p /><br />
-  
 <p align="center">
   <a href="https://www.junyu.lol/">
     <img src="https://github.com/user-attachments/assets/7e7c4aee-2cf5-44a5-9e20-5b46f8ff4c8f" />
