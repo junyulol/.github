@@ -8,10 +8,6 @@
   
 <p align="center">
   <a href="https://www.junyu.lol/">
-    <!--img width="200" src="https://avatars.githubusercontent.com/u/225202273?s=400&v=4" /-->
+    <img src="https://github.com/user-attachments/assets/7e7c4aee-2cf5-44a5-9e20-5b46f8ff4c8f" />
   </a>
 </p>
-
-![](https://www.junyu.lol/assets/ripe-puerh-tea/SelfieCity_1112181412_org.jpg)
-
-### <p align="center"><a href="https://www.junyu.lol/" target="_blank" align="center">junyu.lol</a></p>
